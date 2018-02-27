@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="App_Inventor" size="189.000000 240.764328" />
+    <ImageTarget name="Java_Programming" size="189.000000 236.250000" />
+    <ImageTarget name="exploding_arduino" size="189.000000 258.904114" />
+  </Tracking>
+</QCARConfig>
